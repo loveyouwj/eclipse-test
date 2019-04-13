@@ -7,6 +7,8 @@ public class UserController {
 		System.out.println("hello git  Right!!!");
 
 		System.out.println("hello git Left!!!");
+		
+		System.out.println("hot_fix");
 
 	}
 }
